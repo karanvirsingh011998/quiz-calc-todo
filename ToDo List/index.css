@@ -1,0 +1,11 @@
+body{
+    background-color: #352f5b;
+
+}
+.container{
+    max-width: 400px;
+}
+
+.delete{
+    cursor:pointer;
+}
